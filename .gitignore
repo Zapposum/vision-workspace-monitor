@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+runs/
+detections/*.jpg
+detections/*.png
+detections/*.mask
+detections/*.tmp
+labelImg/
+torchvision/
