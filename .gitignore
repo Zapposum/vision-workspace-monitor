@@ -1,3 +1,9 @@
+*.whl
+*.pt
+*.engine
+models/
+detections/
+runs/
 venv/
 __pycache__/
 *.pyc
